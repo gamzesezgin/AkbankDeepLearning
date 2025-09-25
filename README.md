@@ -29,4 +29,4 @@ Amaç, modelin doğruluk (accuracy) değerini maksimize ederken **overfitting** 
 
 ## Kaggle Notebook
 Projeyi detaylı olarak incelemek ve çalıştırmak için Kaggle Notebook linki:  
-[Kaggle Notebook – Cats vs Dogs CNN Hiperparametre Optimizasyonu](https://www.kaggle.com/code/gamzesezgin/catanddogs/edit/run/263974247)
+[Kaggle Notebook – Cats vs Dogs CNN Hiperparametre Optimizasyonu](https://www.kaggle.com/code/gamzesezgin/catanddogs)
